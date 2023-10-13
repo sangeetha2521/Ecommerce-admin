@@ -20,7 +20,7 @@ export default function AdminSidebar() {
             <NavLink
               to={item.route ? item.route : item.title}
               className={`flex flex-row items-start space-x-4 ${
-                location.pathname.includes(item.title)
+                location.pathname.includes(item.route ? item.route : item.title)
                   ? "bg-white border-l-8 py-3 px-1 border-[#d1a184] rounded-md "
                   : ""
               }`}
