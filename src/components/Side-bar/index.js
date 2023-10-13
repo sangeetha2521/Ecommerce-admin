@@ -18,7 +18,7 @@ export default function AdminSidebar() {
         <ul className="flex flex-col mt-16 space-y-16 m-2 bg-scroll">
           {dashboardContent.map((item) => (
             <NavLink
-              to={item.title}
+              to={item.route ? item.route : item.title}
               className={`flex flex-row items-start space-x-4 ${
                 location.pathname.includes(item.title)
                   ? "bg-white border-l-8 py-3 px-1 border-[#d1a184] rounded-md "

@@ -78,12 +78,14 @@ export const dashboardContent = [
   {
     id: 1,
     title: "Dashboard",
+    route: "Ecommerce-admin",
     icon: <DashboardIcon />,
     component: <Dashboard />,
   },
   {
     id: 2,
     title: "Products",
+    route: "Products",
     icon: <Producticon />,
     component: <Products />,
   },
