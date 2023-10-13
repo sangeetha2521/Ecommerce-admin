@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Dashboard/static/css/main.3baa7d83.css",
-    "main.js": "/Dashboard/static/js/main.ce4fa486.js",
-    "static/js/787.9feb067f.chunk.js": "/Dashboard/static/js/787.9feb067f.chunk.js",
-    "static/media/CofeeMeachine-2.svg": "/Dashboard/static/media/CofeeMeachine-2.30eabc9104cbe6ff6e9edbc1eca29af0.svg",
-    "static/media/CofeeMeachine.svg": "/Dashboard/static/media/CofeeMeachine.5f312acc36c849a112217e43ac16888d.svg",
-    "static/media/Designs.svg": "/Dashboard/static/media/Designs.a597549c393f0850ffe41a80c4858a99.svg",
-    "index.html": "/Dashboard/index.html",
-    "main.3baa7d83.css.map": "/Dashboard/static/css/main.3baa7d83.css.map",
-    "main.ce4fa486.js.map": "/Dashboard/static/js/main.ce4fa486.js.map",
-    "787.9feb067f.chunk.js.map": "/Dashboard/static/js/787.9feb067f.chunk.js.map"
+    "main.css": "/Ecommerce-admin/static/css/main.3baa7d83.css",
+    "main.js": "/Ecommerce-admin/static/js/main.d3c175d7.js",
+    "static/js/787.9feb067f.chunk.js": "/Ecommerce-admin/static/js/787.9feb067f.chunk.js",
+    "static/media/CofeeMeachine-2.svg": "/Ecommerce-admin/static/media/CofeeMeachine-2.30eabc9104cbe6ff6e9edbc1eca29af0.svg",
+    "static/media/CofeeMeachine.svg": "/Ecommerce-admin/static/media/CofeeMeachine.5f312acc36c849a112217e43ac16888d.svg",
+    "static/media/Designs.svg": "/Ecommerce-admin/static/media/Designs.a597549c393f0850ffe41a80c4858a99.svg",
+    "index.html": "/Ecommerce-admin/index.html",
+    "main.3baa7d83.css.map": "/Ecommerce-admin/static/css/main.3baa7d83.css.map",
+    "main.d3c175d7.js.map": "/Ecommerce-admin/static/js/main.d3c175d7.js.map",
+    "787.9feb067f.chunk.js.map": "/Ecommerce-admin/static/js/787.9feb067f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3baa7d83.css",
-    "static/js/main.ce4fa486.js"
+    "static/js/main.d3c175d7.js"
   ]
 }
