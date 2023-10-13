@@ -13,7 +13,7 @@ const APP = () => {
         <AdminSidebar />
         <Routes>
           <Route
-            path="/Dashboard"
+            path="/Ecommerce-admin"
             element={
               <>
                 <Dashboard />
