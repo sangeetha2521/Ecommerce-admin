@@ -1,16 +1,17 @@
 {
   "files": {
     "main.css": "/Ecommerce-admin/static/css/main.a3c43660.css",
-    "main.js": "/Ecommerce-admin/static/js/main.4d3f837d.js",
+    "main.js": "/Ecommerce-admin/static/js/main.20442045.js",
     "static/media/CofeeMeachine-2.svg": "/Ecommerce-admin/static/media/CofeeMeachine-2.437f58ae95b63ec7dc359f75d5acbe91.svg",
     "static/media/CofeeMeachine.svg": "/Ecommerce-admin/static/media/CofeeMeachine.6c413213083b825bee1b4899fb167a10.svg",
+    "service-worker.js": "/Ecommerce-admin/service-worker.js",
     "static/media/Designs.svg": "/Ecommerce-admin/static/media/Designs.a597549c393f0850ffe41a80c4858a99.svg",
     "index.html": "/Ecommerce-admin/index.html",
     "main.a3c43660.css.map": "/Ecommerce-admin/static/css/main.a3c43660.css.map",
-    "main.4d3f837d.js.map": "/Ecommerce-admin/static/js/main.4d3f837d.js.map"
+    "main.20442045.js.map": "/Ecommerce-admin/static/js/main.20442045.js.map"
   },
   "entrypoints": [
     "static/css/main.a3c43660.css",
-    "static/js/main.4d3f837d.js"
+    "static/js/main.20442045.js"
   ]
 }
