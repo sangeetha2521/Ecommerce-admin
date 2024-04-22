@@ -33,8 +33,8 @@ export default function Products() {
           <BorderIcon />
 
           <h2 className="ml-2 mt-2 text-[#C68A65] text-center font-bold">Our Products</h2>
-          <button className="flex items-end ml-auto bg-[#C68A65] p-2 text-center text-white font-semibold rounded-2xl ">
-            Add New product
+          <button className="flex items-end ml-auto bg-[#C68A65] p-3 text-center text-white font-semibold rounded-2xl ">
+            Add New Product
           </button>
         </span>
         <h2 className="m-2 ml-10 first-letter:font-bold text-xl">Explore Our Products</h2>
